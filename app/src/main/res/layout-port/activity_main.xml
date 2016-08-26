@@ -27,9 +27,9 @@
         android:background="#0000"
         style="?android:borderlessButtonStyle"
         android:textSize="20dp"
+        android:layout_marginTop="41dp"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="54dp" />
+        android:layout_centerHorizontal="true" />
 
 
 </RelativeLayout>
